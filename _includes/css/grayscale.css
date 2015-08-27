@@ -76,6 +76,7 @@ a:focus {
 }
 
 .navbar-custom {
+    z-index: 3001;
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
