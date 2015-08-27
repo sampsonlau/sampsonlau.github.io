@@ -496,6 +496,8 @@ body {
 
 .panel-heading {
     cursor: pointer;
+    position: relative;
+    z-index: 3000;
 }
 
 .carousel-button {
