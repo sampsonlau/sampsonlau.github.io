@@ -494,6 +494,10 @@ body {
   text-shadow: 2px 2px 4px #000000;
 }
 
+.panel-heading {
+    cursor: pointer;
+}
+
 .carousel-button {
     position: absolute;
     top: 50%;
