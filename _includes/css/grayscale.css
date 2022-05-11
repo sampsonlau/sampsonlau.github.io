@@ -339,8 +339,8 @@ a:focus {
     }
 
     .bottom-section {
-        margin-top: 150px;
-        height: 350px;
+        margin-top: 100px;
+        height: 400px;
     }
 
     #map {
@@ -357,7 +357,7 @@ a:focus {
 
 @media(min-width:1350px) {
     .bottom-section {
-        height: 530px;
+        height: 650px;
     }
 }
 
